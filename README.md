@@ -8,7 +8,7 @@ Community-driven Issues Documentation for Foxhole is a repository for the organi
 	* No current public place exists for the over-organization of bug reports, without idle chatter.
 
 * Track (mostly) everything
-	* This project may shadow [#bug-reports](https://discord.gg/w74qcssfvr) on the official Foxhole Game Discord server.
+	* This project may shadow [#bug-reports](https://discord.gg/w74qcssfvr) on the official Foxhole Game Discord server, bug reports on the [Official Foxhole Subreddit](https://www.reddit.com/r/foxholegame), or anywhere else.
 	
 * Promote permanence
 	* Repeated reports of the same bug will be omitted and pointed to the same issue.  Game world issues are not included in this point.
